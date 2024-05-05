@@ -3,6 +3,7 @@
 1. [Linked List(연결 리스트)](/data-structures/linkedList.md)
 2. [Doubly Linked List(이중 연결 리스트)](/data-structures/doublyLinkedList.md)
 3. [Queue(큐)](/data-structures/queue.md)
+4. [Stack(스택)](/data-structures/stack.md)
 
 
 ### Big O 표기법
