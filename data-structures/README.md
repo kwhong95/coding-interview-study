@@ -4,6 +4,8 @@
 2. [Doubly Linked List(이중 연결 리스트)](/data-structures/doublyLinkedList.md)
 3. [Queue(큐)](/data-structures/queue.md)
 4. [Stack(스택)](/data-structures/stack.md)
+5. [Hash Table(해시 테이블)](/data-structures/hashTable.md)
+6. [Heap(힙)](/data-structures/heap.md)
 
 
 ### Big O 표기법
